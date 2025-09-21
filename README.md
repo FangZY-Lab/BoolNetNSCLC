@@ -3,10 +3,10 @@ This serves as the repository for project "Simulating and optimizing therapeutic
 Below are mappings from code and data to each Figure for reproducibility:
 
 # Figure 3:
-Figure3_code.R\\
-normal_lung_1.0 simulation.zip\\
-EGFRmut_1.0 simulation.zip\\
-KRASmut_1.0 simulation.zip\\
+Figure3_code.R\
+normal_lung_1.0 simulation.zip\
+EGFRmut_1.0 simulation.zip\
+KRASmut_1.0 simulation.zip\
 
 # Figure 4:
 Figure4_code.R\\
