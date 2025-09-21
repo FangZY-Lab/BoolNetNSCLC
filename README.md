@@ -68,6 +68,6 @@ result__ExtendedModel_KRASmutNSCLC_M2_15.zip\
 result__ExtendedModel_EGFRmutNSCLC_M2_40.zip\
 result__ExtendedModel_KRASmutNSCLC_M2_30.zip\
 result__ExtendedModel_EGFRmutNSCLC_M2_60.zip\
-result__ExtendedModel_KRASmutNSCLC_M2_45.zip
+result__ExtendedModel_KRASmutNSCLC_M2_45.zip\
 result__ExtendedModel_EGFRmutNSCLC_M2_80.zip\
-result__ExtendedModel_KRASmutNSCLC_M2_60.zip\
+result__ExtendedModel_KRASmutNSCLC_M2_60.zip
